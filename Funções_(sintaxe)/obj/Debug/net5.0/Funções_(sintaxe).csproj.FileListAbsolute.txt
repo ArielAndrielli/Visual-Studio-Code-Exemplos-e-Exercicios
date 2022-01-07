@@ -1,0 +1,16 @@
+C:\Users\aars\Documents\Curso C#\Funções_(sintaxe)\bin\Debug\net5.0\Funções_(sintaxe).exe
+C:\Users\aars\Documents\Curso C#\Funções_(sintaxe)\bin\Debug\net5.0\Funções_(sintaxe).deps.json
+C:\Users\aars\Documents\Curso C#\Funções_(sintaxe)\bin\Debug\net5.0\Funções_(sintaxe).runtimeconfig.json
+C:\Users\aars\Documents\Curso C#\Funções_(sintaxe)\bin\Debug\net5.0\Funções_(sintaxe).runtimeconfig.dev.json
+C:\Users\aars\Documents\Curso C#\Funções_(sintaxe)\bin\Debug\net5.0\Funções_(sintaxe).dll
+C:\Users\aars\Documents\Curso C#\Funções_(sintaxe)\bin\Debug\net5.0\ref\Funções_(sintaxe).dll
+C:\Users\aars\Documents\Curso C#\Funções_(sintaxe)\bin\Debug\net5.0\Funções_(sintaxe).pdb
+C:\Users\aars\Documents\Curso C#\Funções_(sintaxe)\obj\Debug\net5.0\Funções_(sintaxe).csproj.AssemblyReference.cache
+C:\Users\aars\Documents\Curso C#\Funções_(sintaxe)\obj\Debug\net5.0\Funções_(sintaxe).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aars\Documents\Curso C#\Funções_(sintaxe)\obj\Debug\net5.0\Funções_(sintaxe).AssemblyInfoInputs.cache
+C:\Users\aars\Documents\Curso C#\Funções_(sintaxe)\obj\Debug\net5.0\Funções_(sintaxe).AssemblyInfo.cs
+C:\Users\aars\Documents\Curso C#\Funções_(sintaxe)\obj\Debug\net5.0\Funções_(sintaxe).csproj.CoreCompileInputs.cache
+C:\Users\aars\Documents\Curso C#\Funções_(sintaxe)\obj\Debug\net5.0\Funções_(sintaxe).dll
+C:\Users\aars\Documents\Curso C#\Funções_(sintaxe)\obj\Debug\net5.0\ref\Funções_(sintaxe).dll
+C:\Users\aars\Documents\Curso C#\Funções_(sintaxe)\obj\Debug\net5.0\Funções_(sintaxe).pdb
+C:\Users\aars\Documents\Curso C#\Funções_(sintaxe)\obj\Debug\net5.0\Funções_(sintaxe).genruntimeconfig.cache

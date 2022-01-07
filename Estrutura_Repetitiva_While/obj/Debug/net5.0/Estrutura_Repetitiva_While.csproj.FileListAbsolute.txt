@@ -1,0 +1,16 @@
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_While\bin\Debug\net5.0\Estrutura_Repetitiva_While.exe
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_While\bin\Debug\net5.0\Estrutura_Repetitiva_While.deps.json
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_While\bin\Debug\net5.0\Estrutura_Repetitiva_While.runtimeconfig.json
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_While\bin\Debug\net5.0\Estrutura_Repetitiva_While.runtimeconfig.dev.json
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_While\bin\Debug\net5.0\Estrutura_Repetitiva_While.dll
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_While\bin\Debug\net5.0\ref\Estrutura_Repetitiva_While.dll
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_While\bin\Debug\net5.0\Estrutura_Repetitiva_While.pdb
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_While\obj\Debug\net5.0\Estrutura_Repetitiva_While.csproj.AssemblyReference.cache
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_While\obj\Debug\net5.0\Estrutura_Repetitiva_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_While\obj\Debug\net5.0\Estrutura_Repetitiva_While.AssemblyInfoInputs.cache
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_While\obj\Debug\net5.0\Estrutura_Repetitiva_While.AssemblyInfo.cs
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_While\obj\Debug\net5.0\Estrutura_Repetitiva_While.csproj.CoreCompileInputs.cache
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_While\obj\Debug\net5.0\Estrutura_Repetitiva_While.dll
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_While\obj\Debug\net5.0\ref\Estrutura_Repetitiva_While.dll
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_While\obj\Debug\net5.0\Estrutura_Repetitiva_While.pdb
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_While\obj\Debug\net5.0\Estrutura_Repetitiva_While.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Numeros_Impares_(for)/1.0.0": {
+        "runtime": {
+          "Numeros_Impares_(for).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Numeros_Impares_(for)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

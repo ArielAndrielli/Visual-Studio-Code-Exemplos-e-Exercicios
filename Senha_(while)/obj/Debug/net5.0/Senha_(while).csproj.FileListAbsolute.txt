@@ -1,0 +1,16 @@
+C:\Users\aars\Documents\Curso C#\Senha_(while)\bin\Debug\net5.0\Senha_(while).exe
+C:\Users\aars\Documents\Curso C#\Senha_(while)\bin\Debug\net5.0\Senha_(while).deps.json
+C:\Users\aars\Documents\Curso C#\Senha_(while)\bin\Debug\net5.0\Senha_(while).runtimeconfig.json
+C:\Users\aars\Documents\Curso C#\Senha_(while)\bin\Debug\net5.0\Senha_(while).runtimeconfig.dev.json
+C:\Users\aars\Documents\Curso C#\Senha_(while)\bin\Debug\net5.0\Senha_(while).dll
+C:\Users\aars\Documents\Curso C#\Senha_(while)\bin\Debug\net5.0\ref\Senha_(while).dll
+C:\Users\aars\Documents\Curso C#\Senha_(while)\bin\Debug\net5.0\Senha_(while).pdb
+C:\Users\aars\Documents\Curso C#\Senha_(while)\obj\Debug\net5.0\Senha_(while).csproj.AssemblyReference.cache
+C:\Users\aars\Documents\Curso C#\Senha_(while)\obj\Debug\net5.0\Senha_(while).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aars\Documents\Curso C#\Senha_(while)\obj\Debug\net5.0\Senha_(while).AssemblyInfoInputs.cache
+C:\Users\aars\Documents\Curso C#\Senha_(while)\obj\Debug\net5.0\Senha_(while).AssemblyInfo.cs
+C:\Users\aars\Documents\Curso C#\Senha_(while)\obj\Debug\net5.0\Senha_(while).csproj.CoreCompileInputs.cache
+C:\Users\aars\Documents\Curso C#\Senha_(while)\obj\Debug\net5.0\Senha_(while).dll
+C:\Users\aars\Documents\Curso C#\Senha_(while)\obj\Debug\net5.0\ref\Senha_(while).dll
+C:\Users\aars\Documents\Curso C#\Senha_(while)\obj\Debug\net5.0\Senha_(while).pdb
+C:\Users\aars\Documents\Curso C#\Senha_(while)\obj\Debug\net5.0\Senha_(while).genruntimeconfig.cache

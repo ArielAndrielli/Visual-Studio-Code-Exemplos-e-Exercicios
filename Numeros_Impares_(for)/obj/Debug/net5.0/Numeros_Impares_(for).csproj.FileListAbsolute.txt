@@ -1,0 +1,16 @@
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_(for)\Numeros_Impares_(for)\bin\Debug\net5.0\Numeros_Impares_(for).exe
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_(for)\Numeros_Impares_(for)\bin\Debug\net5.0\Numeros_Impares_(for).deps.json
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_(for)\Numeros_Impares_(for)\bin\Debug\net5.0\Numeros_Impares_(for).runtimeconfig.json
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_(for)\Numeros_Impares_(for)\bin\Debug\net5.0\Numeros_Impares_(for).runtimeconfig.dev.json
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_(for)\Numeros_Impares_(for)\bin\Debug\net5.0\Numeros_Impares_(for).dll
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_(for)\Numeros_Impares_(for)\bin\Debug\net5.0\ref\Numeros_Impares_(for).dll
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_(for)\Numeros_Impares_(for)\bin\Debug\net5.0\Numeros_Impares_(for).pdb
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_(for)\Numeros_Impares_(for)\obj\Debug\net5.0\Numeros_Impares_(for).csproj.AssemblyReference.cache
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_(for)\Numeros_Impares_(for)\obj\Debug\net5.0\Numeros_Impares_(for).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_(for)\Numeros_Impares_(for)\obj\Debug\net5.0\Numeros_Impares_(for).AssemblyInfoInputs.cache
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_(for)\Numeros_Impares_(for)\obj\Debug\net5.0\Numeros_Impares_(for).AssemblyInfo.cs
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_(for)\Numeros_Impares_(for)\obj\Debug\net5.0\Numeros_Impares_(for).csproj.CoreCompileInputs.cache
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_(for)\Numeros_Impares_(for)\obj\Debug\net5.0\Numeros_Impares_(for).dll
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_(for)\Numeros_Impares_(for)\obj\Debug\net5.0\ref\Numeros_Impares_(for).dll
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_(for)\Numeros_Impares_(for)\obj\Debug\net5.0\Numeros_Impares_(for).pdb
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_(for)\Numeros_Impares_(for)\obj\Debug\net5.0\Numeros_Impares_(for).genruntimeconfig.cache

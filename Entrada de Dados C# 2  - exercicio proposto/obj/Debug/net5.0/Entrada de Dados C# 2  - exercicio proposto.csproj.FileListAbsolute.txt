@@ -1,0 +1,16 @@
+C:\Users\aars\Documents\Curso C#\Entrada de Dados C# 2  - exercicio proposto\bin\Debug\net5.0\Entrada de Dados C# 2  - exercicio proposto.exe
+C:\Users\aars\Documents\Curso C#\Entrada de Dados C# 2  - exercicio proposto\bin\Debug\net5.0\Entrada de Dados C# 2  - exercicio proposto.deps.json
+C:\Users\aars\Documents\Curso C#\Entrada de Dados C# 2  - exercicio proposto\bin\Debug\net5.0\Entrada de Dados C# 2  - exercicio proposto.runtimeconfig.json
+C:\Users\aars\Documents\Curso C#\Entrada de Dados C# 2  - exercicio proposto\bin\Debug\net5.0\Entrada de Dados C# 2  - exercicio proposto.runtimeconfig.dev.json
+C:\Users\aars\Documents\Curso C#\Entrada de Dados C# 2  - exercicio proposto\bin\Debug\net5.0\Entrada de Dados C# 2  - exercicio proposto.dll
+C:\Users\aars\Documents\Curso C#\Entrada de Dados C# 2  - exercicio proposto\bin\Debug\net5.0\ref\Entrada de Dados C# 2  - exercicio proposto.dll
+C:\Users\aars\Documents\Curso C#\Entrada de Dados C# 2  - exercicio proposto\bin\Debug\net5.0\Entrada de Dados C# 2  - exercicio proposto.pdb
+C:\Users\aars\Documents\Curso C#\Entrada de Dados C# 2  - exercicio proposto\obj\Debug\net5.0\Entrada de Dados C# 2  - exercicio proposto.csproj.AssemblyReference.cache
+C:\Users\aars\Documents\Curso C#\Entrada de Dados C# 2  - exercicio proposto\obj\Debug\net5.0\Entrada de Dados C# 2  - exercicio proposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aars\Documents\Curso C#\Entrada de Dados C# 2  - exercicio proposto\obj\Debug\net5.0\Entrada de Dados C# 2  - exercicio proposto.AssemblyInfoInputs.cache
+C:\Users\aars\Documents\Curso C#\Entrada de Dados C# 2  - exercicio proposto\obj\Debug\net5.0\Entrada de Dados C# 2  - exercicio proposto.AssemblyInfo.cs
+C:\Users\aars\Documents\Curso C#\Entrada de Dados C# 2  - exercicio proposto\obj\Debug\net5.0\Entrada de Dados C# 2  - exercicio proposto.csproj.CoreCompileInputs.cache
+C:\Users\aars\Documents\Curso C#\Entrada de Dados C# 2  - exercicio proposto\obj\Debug\net5.0\Entrada de Dados C# 2  - exercicio proposto.dll
+C:\Users\aars\Documents\Curso C#\Entrada de Dados C# 2  - exercicio proposto\obj\Debug\net5.0\ref\Entrada de Dados C# 2  - exercicio proposto.dll
+C:\Users\aars\Documents\Curso C#\Entrada de Dados C# 2  - exercicio proposto\obj\Debug\net5.0\Entrada de Dados C# 2  - exercicio proposto.pdb
+C:\Users\aars\Documents\Curso C#\Entrada de Dados C# 2  - exercicio proposto\obj\Debug\net5.0\Entrada de Dados C# 2  - exercicio proposto.genruntimeconfig.cache

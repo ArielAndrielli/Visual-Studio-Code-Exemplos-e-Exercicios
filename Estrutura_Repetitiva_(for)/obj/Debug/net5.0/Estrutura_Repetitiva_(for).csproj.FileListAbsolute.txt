@@ -1,0 +1,16 @@
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_(for)\bin\Debug\net5.0\Estrutura_Repetitiva_(for).exe
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_(for)\bin\Debug\net5.0\Estrutura_Repetitiva_(for).deps.json
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_(for)\bin\Debug\net5.0\Estrutura_Repetitiva_(for).runtimeconfig.json
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_(for)\bin\Debug\net5.0\Estrutura_Repetitiva_(for).runtimeconfig.dev.json
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_(for)\bin\Debug\net5.0\Estrutura_Repetitiva_(for).dll
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_(for)\bin\Debug\net5.0\ref\Estrutura_Repetitiva_(for).dll
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_(for)\bin\Debug\net5.0\Estrutura_Repetitiva_(for).pdb
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_(for)\obj\Debug\net5.0\Estrutura_Repetitiva_(for).csproj.AssemblyReference.cache
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_(for)\obj\Debug\net5.0\Estrutura_Repetitiva_(for).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_(for)\obj\Debug\net5.0\Estrutura_Repetitiva_(for).AssemblyInfoInputs.cache
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_(for)\obj\Debug\net5.0\Estrutura_Repetitiva_(for).AssemblyInfo.cs
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_(for)\obj\Debug\net5.0\Estrutura_Repetitiva_(for).csproj.CoreCompileInputs.cache
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_(for)\obj\Debug\net5.0\Estrutura_Repetitiva_(for).dll
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_(for)\obj\Debug\net5.0\ref\Estrutura_Repetitiva_(for).dll
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_(for)\obj\Debug\net5.0\Estrutura_Repetitiva_(for).pdb
+C:\Users\aars\Documents\Curso C#\Estrutura_Repetitiva_(for)\obj\Debug\net5.0\Estrutura_Repetitiva_(for).genruntimeconfig.cache
